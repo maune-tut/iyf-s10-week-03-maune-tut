@@ -5,6 +5,6 @@
 - Used `Remove-Item` to delete the empty subdirectory.
 
 ## Task 5.3: Project Analysis
-- **HTML Count:** (Insert your number, e.g., 4)
+- **HTML Count:** (4)
 - **Search for "contact":** Found in index.html and contact.html
-- **CSS Line Count:** (Insert your number, e.g., 120 lines)
+- **CSS Line Count:** (130)
